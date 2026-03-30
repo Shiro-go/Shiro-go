@@ -117,12 +117,12 @@ status:      building
 ## `> github_stats`
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shiro-go&show_icons=true&theme=transparent&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&border_color=1f6feb&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-go&layout=compact&theme=transparent&title_color=00e5ff&text_color=c9d1d9&border_color=1f6feb" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shiro-go&show_icons=true&hide_border=false&bg_color=00000000&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&border_color=1f6feb" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-go&layout=compact&hide_border=false&bg_color=00000000&title_color=00e5ff&text_color=c9d1d9&border_color=1f6feb" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shiro-go&theme=transparent&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=1F6FEB" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiro-go&background=00000000&stroke=1f6feb&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=1f6feb" />
 </p>
 
 ---
@@ -170,5 +170,5 @@ done.
 ## `> contribution_grid`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shiro-go/Shiro-go/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Shiro-go/Shiro-go/output/snake.svg" alt="snake animation" />
 </p>
